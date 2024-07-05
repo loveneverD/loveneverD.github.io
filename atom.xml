@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-05T06:49:52.528Z</updated>
+  <updated>2024-07-05T07:00:09.859Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,15 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://example.com/2024/07/05/test/"/>
-    <id>http://example.com/2024/07/05/test/</id>
+    <title>blog搭建</title>
+    <link href="http://example.com/2024/07/05/blog%E6%90%AD%E5%BB%BA/"/>
+    <id>http://example.com/2024/07/05/blog%E6%90%AD%E5%BB%BA/</id>
     <published>2024-07-05T06:49:52.528Z</published>
-    <updated>2024-07-05T06:49:52.528Z</updated>
+    <updated>2024-07-05T07:00:09.859Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p>一些推荐的博主</p><ul><li><p><a class="link"   href="http://www.jetli.com.cn/" >博客志 - 优秀个人独立博客导航 (jetli.com.cn) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 【博客集合】</p></li><li><p><a class="link"   href="https://tianxianzi.me/" >天仙子 (tianxianzi.me) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><ul><li>个人介绍 1.<a class="link"   href="https://tianxianzi.me/" >天仙子 22 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> | <code>https://tianxianzi.me/</code>，博主是美国名校2024界数学博士，目前攻读数学博士后。对于她而言，数学是爱好，而写作是解除焦虑的方法。推荐文章：<a class="link"   href="https://tianxianzi.me/2024/03/20/anxiety/" >焦虑与身体 5 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://tianxianzi.me/2022/12/10/professionalism/" >职业精神 2 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://tianxianzi.me/2022/12/29/why_do_i_write_blogs/" >我什么写博客 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://tianxianzi.me/2022/12/10/self_as_method/" >把自己作为方法 1 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://tianxianzi.me/2023/04/02/crime_and_punishment/" >罪与罚 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://tianxianzi.me/2023/12/18/dostoevsky_gide/" >关于陀思妥耶夫斯基的六次讲座 3 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>（同名书籍摘要）、<a class="link"   href="https://tianxianzi.me/2024/04/01/book_movie_2024_1st_season/" >2024 第一季度书影音总结 1 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</li></ul></li><li><p><a class="link"   href="https://www.ntiy.com/" >非理勿试 – NEVER TRY IT YOURSELF (ntiy.com) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p></li><li><p><a class="link"   href="https://onojyun.com/" >莫比乌斯 – 写作，一场自我悖驳的旅程 (onojyun.com) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p></li><li><p><a class="link"   href="https://hiwannz.com/archives/1050.html#more-1050" >买房指北 - 买房后装修前需要关注啥？ - 见字如面 (hiwannz.com) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p></li><li><p>我是不是也可以自己学着写一下博客</p></li></ul></li><li><p><a class="link"   href="https://zhblogs.ohyee.cc/?tab=random&page=1&tags=&search=" >中文博客列表导航-尝试链接几乎所有的中文博客 (ohyee.cc) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p></li><li><p>可以参考的形式</p><ul><li><a class="link"   href="https://jyywiki.cn/OS/2023/index.html" >操作系统：设计与实现 (2023 春季学期) (jyywiki.cn) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li>github pages</li><li>里面的幻灯片用了reveal.js库</li></ul></li><li><p>也或许也可以直接notion、craft公开</p></li><li><p>自建博客方案选择</p><ul><li><p>最好就是hexo</p><ul><li>一种就是部署在github上面，另外一种就是部署在vercel上面。</li><li><a class="link"   href="https://www.bilibili.com/video/BV1Ju4m1c7WR/?spm_id_from=333.337.search-card.all.click&vd_source=14c99392079b70a0dd8cde8fb1d96d79" >【零成本】Hexo个人博客搭建教程 | 无需服务器_哔哩哔哩_bilibili <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li></li></ul></li><li><p><a class="link"   href="https://linux.do/t/topic/29930" >白嫖个人站：NotionNext，真得好香！ - 软件分享 - LINUX DO <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p></li><li><p><a class="link"   href="https://www.v2ex.com/t/1024641#reply1" >[程序员的知识传承 ] 自建知识库 &amp; wiki 文档 &amp; 静态网站生成框架 推荐 - V2EX <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p></li></ul></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;一些推荐的博主&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;link&quot;   href=&quot;http://www.jetli.com.cn/&quot; &gt;博客志 - 优秀个人独立博客导航 (jetli.com.cn) &lt;i class=&quot;fa-regular </summary>
+      
     
     
     
     
+    <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
